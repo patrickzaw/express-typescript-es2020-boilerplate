@@ -1,0 +1,11 @@
+# build directory
+dist/
+
+# npm packages
+node_modules/
+
+# JetBrains
+.idea/
+
+# macOS
+.DS_Store
