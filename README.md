@@ -9,6 +9,8 @@
 This is a minimal boilerplate project for starting a new express project written in 
 Typescript and ES2020. It includes scripts for compiling and running the project.
 
+You can also read more details about this boilerplate here: https://patrick-h-zaw.medium.com/node-express-typescript-and-es2020-boilerplate-ed2ba9164a40
+
 ## Requirements
 You will need the following installed:
 - Yarn: https://yarnpkg.com
