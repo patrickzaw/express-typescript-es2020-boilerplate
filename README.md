@@ -38,7 +38,7 @@ yarn start
 
 ## Notes
 * The `import` must be relative files with the `.js` file extensions and not `.ts` i.e. `import sampleClass from "./src/sampleClass.js";`
-* Because ES2020 is supported by later Node.js versions, note that the typescript compiler option for `module` is `ES2020` and not `commonjs`
+* Because ES2020 is supported by later Node.js versions, note that the typescript compiler option for `module` is `ESNext` and not `CommonJS`
 * This `dist` folder is where the code is compiled and run
 
 [es2020-badge]: https://img.shields.io/badge/JavaScript->=%20ES2020-blue.svg
